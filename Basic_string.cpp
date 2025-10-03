@@ -14,3 +14,6 @@ int main(){
     cout<<s3;
     return 0;
 }
+
+//for print single \ then use double \\.
+// \ means it will not read his just next one and read start from next second.
