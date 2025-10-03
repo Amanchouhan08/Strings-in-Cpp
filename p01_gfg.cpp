@@ -23,7 +23,7 @@ class Solution {
     }
     
     bool isRotated(string& s1, string& s2) {
-        // code here
+      
         if(s1.size()!=s2.size()){
             return 0;
         }
