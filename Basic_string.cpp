@@ -17,3 +17,5 @@ int main(){
 
 //for print single \ then use double \\.
 // \ means it will not read his just next one and read start from next second.
+
+//in string we can do push_back(), pop_back() operation
